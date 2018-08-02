@@ -3,7 +3,7 @@
 Bluetooth communication project for Standalone Unity builds.
 
 ## about
-- tested on Unity 2018.2.0f1
+- tested on Windows, Unity 2018.2.0f1
 - requires setting .NET version to 4.x
 
 ## includes
