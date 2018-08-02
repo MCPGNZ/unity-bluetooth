@@ -1,4 +1,4 @@
-# unity-bluetooth
+# unity-bluetooth [0.1.0]
 
 Bluetooth communication project for Standalone Unity builds.
 
