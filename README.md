@@ -1,6 +1,6 @@
 # unity-bluetooth [0.1.0]
 
-bluetooth communication project for Standalone Unity builds.
+Unity bluetooth communication project for Standalone builds.
 
 ## about
 - tested on Windows, Unity 2018.2.0f1
